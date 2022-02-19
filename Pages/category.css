@@ -27,10 +27,7 @@
     flex-direction: column;
     position:relative;
     color: var(--hover-text-color);
-    border-top-left-radius: 0.5rem;
-    border-top-right-radius: 0.5rem;
-    border-bottom-left-radius: 0.5rem;
-    border-bottom-right-radius: 0.5rem;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
 }
 
 .card:hover{
@@ -39,8 +36,7 @@
 
 .image img{
     width: 100%;
-    border-top-left-radius: 0.5rem;
-    border-top-right-radius: 0.5rem;
+    border-radius: 0.5rem 0.5rem;
 }
 .title {
     margin-left: 2rem;
