@@ -1,0 +1,10 @@
+.container_info_heading{
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+}
+
+.container_rules{
+    margin-top: 3rem;
+    margin-left:3rem;
+}
