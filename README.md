@@ -12,6 +12,11 @@ Quizzey is an app generally used to enhance the knowledge or explore the variety
 
 **Hosting Platform:** `Netlify`
 
+## Preview
+
+
+https://user-images.githubusercontent.com/54833758/155232973-6af72d2c-2679-4e52-90a2-6ab5076381e1.mp4
+
 
 ## Features
 
